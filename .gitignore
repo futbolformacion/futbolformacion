@@ -1,0 +1,13 @@
+# dependencias y builds
+node_modules
+dist
+.vercel
+.env
+.env.local
+.DS_Store
+
+# archivos de logs o caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
